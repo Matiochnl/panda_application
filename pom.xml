@@ -16,7 +16,7 @@
   <description>Demo project for Spring Boot</description>
   <distributionManagement>
     <repository>
-      <id>artifactory</id>
+      <id>artifactorycompose</id>
       <name>release</name>
       <url>http://192.168.44.44:8082/artifactory/libs-release-local/</url>
     </repository>
