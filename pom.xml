@@ -16,14 +16,14 @@
   <description>Demo project for Spring Boot</description>
   <distributionManagement>
     <repository>
-      <id>artifactorycompose</id>
+      <id>artifactory</id>
       <name>release</name>
       <url>http://192.168.44.44:8082/artifactory/libs-release-local/</url>
     </repository>
     <snapshotRepository>
       <id>artifactory</id>
       <name>snapshots</name>
-      <url>http://192.168.44.44:8082/artifactory/libs-snapshot-local</url>
+      <url>http://192.168.44.44:8082/artifactory/libs-snapshot-local/</url>
     </snapshotRepository>
   </distributionManagement>
   <dependencies>

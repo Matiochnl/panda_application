@@ -4,7 +4,7 @@
       <server>
         <username>admin</username>
         <password>Pandapass1</password>
-        <id>artifactorycompose</id>
+        <id>artifactory</id>
       </server>
     </servers>
     <pluginGroups>
