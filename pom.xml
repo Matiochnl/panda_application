@@ -143,12 +143,12 @@
                 <repository>
                         <id>artifactory</id>
                         <name>release</name>
-                        <url>http://192.168.44.44:8082/artifactory/libs-release-local/</url>
+                        <url>http://192.168.44.44:8082/artifactory/libs-release-local/pl/pandait/panda</url>
                 </repository>
                 <snapshotRepository>
                         <id>artifactory</id>
                         <name>snapshots</name>
-                        <url>http://192.168.44.44:8082/artifactory/libs-snapshot-local/</url>
+                        <url>http://192.168.44.44:8082/artifactory/libs-snapshot-local/pl/pandait/panda/0.0.2-SNAPSHOT</url>
                 </snapshotRepository>
         </distributionManagement>
         
